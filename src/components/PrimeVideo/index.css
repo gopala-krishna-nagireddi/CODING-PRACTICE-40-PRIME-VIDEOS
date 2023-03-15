@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.prime-container {
+  background-color: #000000;
+  min-height: 100vh;
+}
+
+.prime-banner {
+  width: 100%;
+  height: 200px;
+}
+
+.movie-category-container {
+  padding: 0 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.category-name {
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.action-movies-container,
+.comedy-movies-container {
+  margin-top: 30px;
+}
+
+.movie-thumbnail {
+  padding: 8px;
+}
+
+.thumbnail-img {
+  width: 100%;
+}
